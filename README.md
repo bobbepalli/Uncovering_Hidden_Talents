@@ -1,0 +1,2 @@
+# Uncovering_Hidden_Talents
+There is no appropriate Platform for entry registrations for Reality shows. Skilled artists doesn’t have the right direction to grow up and exhibit their talent. Following are the expectations from the platform. User should be login to the system after registration, User should be able to manage his profile and post talents which can be endorsed, System should be able to show recommended shows and provide a way to Register to Reality shows, User should be able to share their experiences and post updates on profiles.
